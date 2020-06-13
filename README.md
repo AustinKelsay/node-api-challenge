@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Express Middleware and Express routing
+
 - [ ] Describe Middleware?
+
+Middleware are functions that execute by the order they are introduced into the server code.
 
 - [ ] Describe a Resource?
 
+A resource is an actual piece of data in your database that you preform C.R.U.D. operations on
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+A status code coresponding to the completed (or not) operation
+
 - [ ] How can we partition our application into sub-applications?
+
+Using a single URL per resource for your CRUD operations
 
 ## Minimum Viable Product
 
